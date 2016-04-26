@@ -56,7 +56,3 @@ TractorTeamGame/Intermediate/*
 
 # Cache files for the editor to use
 TractorTeamGame/DerivedDataCache/*
-
-TractorTeamGame/Content/People/JessieNewton/JessieNewton/StaticMesh/RotateRoom.uasset
-
-*.uasset
